@@ -1,5 +1,9 @@
 # Thanks for choosing HeteroCraft's Speedtest program!
 
+Star us , and more useful codes! 
+
+![](https://img.shields.io/github/stars/HeteroCraft/speedtest.svg)
+
 ## What is this?
 
 Well, this is a program that you can do speedtest in every website! And you just need an image file in the webiste that you want.
