@@ -100,10 +100,10 @@ and do not remove the info of this program!
 		function getSpeed(){
 			var startTime = new Date().getTime();
 			var img = new Image();
-			img.src = "https://www.heterocraft.com/favicon.ico";
+			img.src = "https://heterocraft.github.io/speedtest/test.png";
 			img.onload = function(){
 				// The size of image (Edit it by your heart)
-				var size = 204.94 * 1000;
+				var size = 119 * 121;
 				var endTime = new Date().getTime();
 				var speed = parseInt(size / (endTime - startTime));
 				var unit = "KB/S";
