@@ -9,6 +9,10 @@ Well, this is a program that you can do speedtest in every website! And you just
 1. Open the main file *(speedtest.html)* or the PHP file *(speedtest.php)* and change the URL at the back of the string named **img.src** .
 2. Open the file that you edited.
 
+## What's the differences between the HTML file and the PHP file?
+
+In fact, there is no big difference between them .(;w;) But the PHP file can change the year below the page {VIA}.
+
 ## Can I edit this program?
 
 Of course you can, but you **have to follow [CC-by-nc-sa 4.0 LICENSE](https://creativecommons.org/licenses/by-nc-sa/4.0/), [异次空间用户服务守则](https://www.heterocraft.com/rule/main.php)** .
