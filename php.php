@@ -83,7 +83,7 @@
 	</body>
 	
 	<script>
-		setInterval("getSpeed()", 10000);
+		setInterval("getSpeed()", 100);
 		
 		function getSpeed(){
 			var startTime = new Date().getTime();
