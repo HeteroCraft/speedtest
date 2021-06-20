@@ -95,7 +95,7 @@ and do not remove the info of this program!
 	</body>
 	
 	<script>
-		setInterval("getSpeed()", 10000);
+		setInterval("getSpeed()", 1000);
 		
 		function getSpeed(){
 			var startTime = new Date().getTime();
