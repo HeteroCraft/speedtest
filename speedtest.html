@@ -100,7 +100,7 @@ and do not remove the info of this program!
 		function getSpeed(){
 			var startTime = new Date().getTime();
 			var img = new Image();
-			img.src = "https://heterocraft.github.io/speedtest/test.png";
+			img.src = "https://heterocraft.github.io/speedtest/test.png?time=" + startTime;
 			img.onload = function(){
 				// The size of image (Edit it by your heart)
 				var size = 119 * 121;
