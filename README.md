@@ -10,7 +10,7 @@ Well, this is a program that you can do speedtest in every website! And you just
 
 ## How can I use it?
 
-1. Open the main file *(speedtest.html)* or the PHP file *(speedtest.php)* and change the URL at the back of the string named **img.src** .
+1. Open the main file *(speedtest.html)* and change the URL at the back of the string named **img.src** .
 2. Open the file that you edited.
 
 ## What's the differences between the HTML file and the PHP file?
